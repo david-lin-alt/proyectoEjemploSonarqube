@@ -1,0 +1,3 @@
+$ mvn sonar:sonar \
+    -Dsonar.host.url=http://localhost:8080 \
+    -Dsonar.login=squ_17a9c482fb57a96b7628b06adccc4bfb6318ab29
